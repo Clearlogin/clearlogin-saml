@@ -2,14 +2,14 @@ moodle_clearlogin-saml
 ===============
 
 SAML plugin for Moodle to use with Clearlogin SSO
-This document assumes that moodle is already created in clearlogin, for help with that please visit clearlogin.com.
+This document assumes that a Moodle app is already created in Clearlogin,
+for help with that please visit clearlogin.com.
 
 
 ##Installation Instructions
-###### Note if you are choosing to install via the Moodle plugins directory than skip step 1.
+###### Note if you are choosing to install via the Moodle plugins directory then skip step 1.
 ####1. Download
-  * [Latest v0.1](https://github.com/Clearlogin/moodle_clearlogin-saml/releases/download/v0.1/clearlogin_saml.zip)
-  * [Stable v0.1](https://github.com/Clearlogin/moodle_clearlogin-saml/releases/download/v0.1/clearlogin_saml.zip)
+  * [Latest](https://github.com/Clearlogin/moodle_clearlogin-saml/blob/master/clearlogin_saml.zip)
 
 ####2. Install (MARKETPLACE)
   1. (Not Available ATM)
@@ -41,7 +41,7 @@ This document assumes that moodle is already created in clearlogin, for help wit
   13. Map `Email Address` to `email`
   14. Map `First Name` to `first_name`
   15. Map `Last Name` to `last_name`
-  16. (Optional) You may want to map {{LDAP.role}} or {{LDAP.ou}} to moodle roles.
+  16. (Optional) You may want to map an extra attribute within the Moodle app to moodle roles.
   17. Click `Save Changes` and you are set!
 
 ####4. Fallback(Suggested)
