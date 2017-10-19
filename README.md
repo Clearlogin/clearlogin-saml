@@ -9,7 +9,7 @@ for help with that please visit clearlogin.com.
 ##Installation Instructions
 ###### Note if you are choosing to install via the Moodle plugins directory then skip step 1.
 ####1. Download
-  * [Latest](https://github.com/Clearlogin/moodle_clearlogin-saml/blob/master/clearlogin_saml.zip)
+  * [Latest](https://github.com/Clearlogin/moodle_clearlogin-saml/raw/master/clearlogin_saml.zip)
 
 ####2. Install (MARKETPLACE)
   1. (Not Available ATM)
