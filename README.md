@@ -8,8 +8,7 @@ This document assumes that moodle is already created in clearlogin, for help wit
 ##Installation Instructions
 ###### Note if you are choosing to install via the Moodle plugins directory than skip step 1.
 ####1. Download
-  * [Latest v0.1](https://github.com/Clearlogin/moodle_clearlogin-saml/releases/download/v0.1/clearlogin_saml.zip)
-  * [Stable v0.1](https://github.com/Clearlogin/moodle_clearlogin-saml/releases/download/v0.1/clearlogin_saml.zip)
+  * [Latest](https://github.com/Clearlogin/moodle_clearlogin-saml/blob/master/clearlogin_saml.zip)
 
 ####2. Install (MARKETPLACE)
   1. (Not Available ATM)
